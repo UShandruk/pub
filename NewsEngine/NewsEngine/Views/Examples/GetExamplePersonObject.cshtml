@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "GetExamplePersonObject";
+}
+
+<h2>GetExamplePersonObject</h2>
+<h3>Здесь учимся делать get-запросы</h3>
+<h4>2. GET: Передача данных через объект.</h4>
+<p>Начальные значения x и y переданы параметрами в экшн линк, далее их можно менять в строке браузера</p>
+<p>
+    Имя: @ViewBag.person.name <br />
+    Возраст: @ViewBag.person.age <br />
+    Место рождения: @ViewBag.person.place
+</p>
+
+@section Footer {
+    <p>&copy; @DateTime.Now.Year - Учебный проект "Новостной движок", @ViewBag.Title.</p>
+}

@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Calculator";
+}
+
+<h2>Calculator</h2>
+<h4>POST: создать калькулятор, форма x, y, (-+*/) по кнопочке посчитать будет сделан рассчет с выводом на другую страницу (редирект) а если операция невозможна то вывод на этой же странице что операция невозможна.
+Передача данных через редирект (TempData)</h4>
+@using (Html.BeginForm("Calculator", "Calculator", FormMethod.Post))
+{
+<text>
+    <input type="text" name="A" placeholder="Введите первое число" /><br>
+    Действие: @Html.DropDownList("Operation", (SelectList)ViewBag.Operations)<br>
+    <input type="text" name="B" placeholder="Введите второе число" /><br>
+    Результат: @ViewBag.Result <br>
+    <input type="submit" value="=">
+
+        @*
+        A: @Html.TextBox("A")
+        Действие: @Html.DropDownList("Operation", (SelectList)ViewBag.Operations)
+        B: @Html.TextBox("B")
+        Результат: @ViewBag.Result
+        *@    
+</text>
+}

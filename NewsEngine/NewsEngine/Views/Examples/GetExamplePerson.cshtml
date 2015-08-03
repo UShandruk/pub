@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "GetExamplePerson";
+}
+
+<h2>GetExamplePerson</h2>
+<h3>Здесь учимся делать get-запросы</h3>
+<h4>2. GET: создать действие для приема GET запроса с именем человека, возрастом, и местом рождения.
+вывести во вьюшку информацию об этом человеке.</h4>
+<p>Начальные значения x и y переданы параметрами в экшн линк, далее их можно менять в строке браузера</p>
+<p>
+    Имя: @ViewBag.PersonName <br />
+    Возраст: @ViewBag.PersonAge <br />
+    Место рождения: @ViewBag.PersonPlace
+</p>
+
+@section Footer {
+    <p>&copy; @DateTime.Now.Year - Учебный проект "Новостной движок", @ViewBag.Title.</p>
+}

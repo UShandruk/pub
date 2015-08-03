@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+    
+<body style="background-color: LightSteelBlue">
+    @*Шапка*@
+    <div class="container fixed-top" style="background-color: ghostwhite"><img src="/images/title.jpg" style="margin-left: -15px;"></div> <!--navbar - отступ снизу-->
+
+    @*Меню*@
+    <div class="container navbar-inverse">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @*@Html.ActionLink("Application name", "Index", "Home", null, new { @class = "navbar-brand" })*@
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Блог", "Index", "Messages")</li>       
+                <li class="dropdown">
+                    <a href="#" data-toggle="dropdown">Get-запросы</a>
+                    <ul class="dropdown-menu">
+                        <li>@Html.ActionLink("Get-запрос №1: Передача данных через именованные параметры, ViewBag", "GetExample", "Examples", new { x = 5, y = 6 }, null)</li> @*, new { x = 5, y = 6 }, null - делать так в гет-запросах не совсем правильно*@
+                        @* Это заглушка, чтобы дать начальные значения переменных, иначе, при нажатии на ссылку в меню, будет ошибка, что x и y переменные типа int и не могут быть null"*@
+                        <li>@Html.ActionLink("Get-запрос №2: Передача данных для создания объекта", "GetExamplePerson", "Examples", new { PersonName = "S", PersonAge = 1, PersonPlace = "yh" }, null)</li>
+                        <li>@Html.ActionLink("Get-запрос №3: Передача данных через объект", "GetExamplePersonObject", "Examples")</li>
+                        <li>@Html.ActionLink("Get-запрос №4: Передача данных через модель", "GetExampleForTypizedView", "Examples")</li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" data-toggle="dropdown">Post-запросы</a>
+                    <ul class="dropdown-menu">
+                        <li>@Html.ActionLink("Post-запрос №1: Ввод-вывод данных", "PostFormExample", "Examples")</li>
+                        <li>@Html.ActionLink("Post-запрос №2: Ввод-вывод данных, FormCollection", "PostFormCollectionExample", "Examples")</li>
+                        <li>@Html.ActionLink("Post-запрос №3: Калькулятор", "Calculator", "Calculator")</li>
+                    </ul>
+                </li>
+                <li>@Html.ActionLink("Razor", "Index", "Examples")</li>
+                <li>@Ajax.ActionLink("Ajax", "AjaxFormExample", "Examples", null)</li>
+            </ul>
+            @Html.Partial("_LoginPartial")
+        </div>
+    </div>
+
+    @*Тело*@
+    <div class="container body-content" style="background-color: ghostwhite">
+        <table width="100%">
+            <tr>
+                <td>
+                    @RenderBody()
+                    @RenderSection("RazorExample", required: false)
+                    @RenderSection("Photo", required: false)
+                </td>
+                <td>
+                    @*Правая панель*@
+                    <div class="navbar-right fixed-top" style="background-color: mintcream">
+                        @RenderSection("RightBar", required: false)
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <hr />
+    </div>
+
+    @*Подвал*@
+    <footer>
+        <div class="container " style="background-color: ghostwhite; ">@RenderSection("Footer", required: false)</div>
+    </footer>
+
+    @*Скрипты*@
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

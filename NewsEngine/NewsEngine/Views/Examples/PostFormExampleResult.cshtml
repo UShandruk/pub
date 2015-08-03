@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "PostFormExampleResult";
+}
+
+<h2>PostFormExampleResult</h2>
+<pre>
+вы ввели следующие данные:
+text: @TempData["text"]
+i: @TempData["i"]
+</pre>
+
+@section Footer {
+    <p>&copy; @DateTime.Now.Year - Учебный проект "Новостной движок", @ViewBag.Title.</p>
+}

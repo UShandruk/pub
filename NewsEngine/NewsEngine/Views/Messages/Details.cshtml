@@ -1,0 +1,89 @@
+﻿@model NewsEngine.Models.Message
+
+@{
+    ViewBag.Title = "Details";
+}
+@using (Ajax.BeginForm("AjaxFormExample", "Page", new AjaxOptions { UpdateTargetId = "results" }))
+{ 
+<h2>Details</h2>
+
+<div>
+    <h4>Message</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dd>
+            <h4> @Html.DisplayFor(model => model.Title)</h4>
+            <h5> @Html.DisplayFor(model => model.PublishDate)</h5>
+        </dd>
+        <dd>
+            @Html.DisplayFor(model => model.Text)
+        </dd>
+    </dl>
+</div>
+<div>
+    <input type="text" placeholder="Ваш комментарий" name="i" />
+    <input type="submit" value="Добавить комментарий">
+    </div>
+<p>
+    @Html.ActionLink("Добавить комментарий", "Create", "Replies", new { id = Model.Id }, null) | @*!!! Отсюда Message.Id пойдет в Replies/public ActionResult Create(int? id) !!!*@
+    @Html.ActionLink("Редактировать", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Назад", "Index")
+</p>
+<hr />
+<div>
+    @foreach (var Reply in Model.Replies)
+    {
+        <div>
+            <b>Гость</b>  @Reply.PublishDate <br>
+            @Reply.Text <br>
+            @Html.ActionLink("Удалить комментарий", "Delete", "Replies", new { ReplyId = Reply.Id }, null) |
+            @Html.ActionLink("Редактировать комментарий", "Edit", "Replies", new { ReplyId = Reply.Id }, null)
+            <br><br>
+        </div>
+    }
+</div>
+}
+
+@*@model NewsEngine.Models.Message
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Message</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dd>
+            <h4> @Html.DisplayFor(model => model.Title)</h4>
+            <h5> @Html.DisplayFor(model => model.PublishDate)</h5>
+        </dd>
+        <dd>
+            @Html.DisplayFor(model => model.Text)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Добавить комментарий", "Create", "Replies", new { id = Model.Id }, null) | @*!!! Отсюда Message.Id пойдет в Replies/public ActionResult Create(int? id) !!!
+    @Html.ActionLink("Редактировать", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Назад", "Index")
+</p>
+<hr />
+<div>
+    @foreach (var Reply in Model.Replies)
+{
+    <div>
+        <b>Гость</b>  @Reply.PublishDate <br>
+        @Reply.Text <br>
+        @Html.ActionLink("Удалить комментарий", "Delete", "Replies", new { ReplyId = Reply.Id }, null) | 
+        @Html.ActionLink("Редактировать комментарий", "Edit", "Replies", new { ReplyId = Reply.Id }, null)
+        <br><br>
+    </div>
+}
+</div>*@
+
+@section Footer {
+    <p>&copy; @DateTime.Now.Year - Учебный проект "Новостной движок", @ViewBag.Title.</p>
+}

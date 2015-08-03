@@ -1,0 +1,20 @@
+﻿@using NewsEngine.Models
+@model Person
+
+@{
+    ViewBag.Title = "GetExampleForTypizedView";
+}
+
+<h2>GetExampleForTypizedView</h2>
+<h3>Здесь учимся делать get-запросы</h3>
+<h4>2. GET: Передача данных во вьюшку через модель (типизированная вьюшка).</h4>
+<p>Начальные значения x и y переданы параметрами в экшн линк, далее их можно менять в строке браузера</p>
+<p>
+    Имя: @Model.name <br />
+    Возраст: @Model.age <br />
+    Место рождения: @Model.place
+</p>
+
+@section Footer {
+    <p>&copy; @DateTime.Now.Year - Учебный проект "Новостной движок", @ViewBag.Title.</p>
+}

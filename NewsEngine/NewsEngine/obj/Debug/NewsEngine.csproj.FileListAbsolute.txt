@@ -1,0 +1,626 @@
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\NewsEngine.dll.config
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Antlr3.Runtime.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Newtonsoft.Json.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.Helpers.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.Mvc.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.Optimization.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.WebPages.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\WebGrease.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.Helpers.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.Mvc.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.Optimization.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.WebPages.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Newtonsoft.Json.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Antlr3.Runtime.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\obj\Debug\NewsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\obj\Debug\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.22_Урок 1_Razor Views, Знакомимся с проектом ASP.NET MVC 5.0\2015.06.22_ДЗ_1\NewsEngine\NewsEngine\obj\Debug\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\NewsEngine.dll.config
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Antlr3.Runtime.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Newtonsoft.Json.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.Helpers.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.Mvc.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.Optimization.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.WebPages.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\WebGrease.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.Helpers.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.Mvc.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.Optimization.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.WebPages.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Newtonsoft.Json.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Antlr3.Runtime.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\obj\Debug\NewsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\obj\Debug\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.25_Урок 2_Controllers\2015.06.25_ДЗ_2\NewsEngine\NewsEngine\obj\Debug\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\NewsEngine.dll.config
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Antlr3.Runtime.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Newtonsoft.Json.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.Helpers.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.Mvc.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.Optimization.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.WebPages.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\WebGrease.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.Helpers.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.Mvc.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.Optimization.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.WebPages.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Newtonsoft.Json.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Antlr3.Runtime.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\obj\Debug\NewsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\obj\Debug\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.06.29_Урок 3_DataModel\2015.06.25_ДЗ_3\NewsEngine\NewsEngine\obj\Debug\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\NewsEngine.dll.config
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Antlr3.Runtime.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Newtonsoft.Json.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.Helpers.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.Mvc.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.Optimization.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.WebPages.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\WebGrease.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.Helpers.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.Mvc.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.Optimization.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.WebPages.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Newtonsoft.Json.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Antlr3.Runtime.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\obj\Debug\NewsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\obj\Debug\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.02_Урок 4_DataModel Validation и Генерация базы данных\2015.07.02_ДЗ_4\NewsEngine\NewsEngine\obj\Debug\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\NewsEngine.dll.config
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Antlr3.Runtime.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Newtonsoft.Json.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.Helpers.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.Mvc.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.Optimization.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.WebPages.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\WebGrease.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.Helpers.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.Mvc.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.Optimization.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.WebPages.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Newtonsoft.Json.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Antlr3.Runtime.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\obj\Debug\NewsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\obj\Debug\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.06_Урок 5_Авторизация и регистрация пользователей\2015.07.02_ДЗ_5\NewsEngine\NewsEngine\obj\Debug\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\NewsEngine.dll.config
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Antlr3.Runtime.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Newtonsoft.Json.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.Helpers.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.Mvc.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.Optimization.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.WebPages.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\WebGrease.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.Helpers.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.Mvc.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.Optimization.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.WebPages.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Newtonsoft.Json.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Antlr3.Runtime.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\obj\Debug\NewsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\obj\Debug\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.09_Урок 6_Ajax, Nuget\2015.07.06_ДЗ_6\NewsEngine\NewsEngine\obj\Debug\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\NewsEngine.dll.config
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Antlr3.Runtime.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Newtonsoft.Json.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Owin.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.Helpers.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.Mvc.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.Optimization.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.WebPages.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\WebGrease.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.Helpers.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.Mvc.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.Optimization.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.WebPages.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Newtonsoft.Json.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Antlr3.Runtime.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\obj\Debug\NewsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\obj\Debug\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\obj\Debug\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\PagedList.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\PagedList.Mvc.dll
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\PagedList.xml
+C:\Users\Chii\Desktop\ШП\2015.06-07_С# ASP.NET MVC\2015.07.13_Урок 7_Migrations, файлы, картинки\2015.07.13_ДЗ_7\NewsEngine\NewsEngine\bin\PagedList.Mvc.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\obj\Debug\NewsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\obj\Debug\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\obj\Debug\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\NewsEngine.dll.config
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Antlr3.Runtime.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\EntityFramework.SqlServer.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Newtonsoft.Json.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Owin.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\PagedList.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\PagedList.Mvc.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.Helpers.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.Mvc.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.Optimization.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.Razor.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.WebPages.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\WebGrease.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\PagedList.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\PagedList.Mvc.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.Helpers.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.Mvc.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.Optimization.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.Razor.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.WebPages.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Newtonsoft.Json.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Antlr3.Runtime.pdb
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\EntityFramework.SqlServer.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\NewsEngine.dll.config
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Antlr3.Runtime.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Newtonsoft.Json.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Owin.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\PagedList.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\PagedList.Mvc.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.Helpers.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.Mvc.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.Optimization.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.Razor.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.WebPages.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\WebGrease.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\PagedList.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\PagedList.Mvc.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.Helpers.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.Mvc.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.Optimization.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.Razor.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.WebPages.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Newtonsoft.Json.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Antlr3.Runtime.pdb
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\obj\Debug\NewsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\obj\Debug\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine_2015.07.20\NewsEngine\NewsEngine\obj\Debug\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.29\NewsEngine\NewsEngine\obj\Debug\NewsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.29\NewsEngine\NewsEngine\obj\Debug\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\NewsEngine.dll.config
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Antlr3.Runtime.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Newtonsoft.Json.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Owin.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\PagedList.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\PagedList.Mvc.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.Helpers.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.Mvc.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.Optimization.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.Razor.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.WebPages.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\WebGrease.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\PagedList.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\PagedList.Mvc.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.Helpers.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.Mvc.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.Optimization.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.Razor.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.WebPages.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Newtonsoft.Json.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Antlr3.Runtime.pdb
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\obj\Debug\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.07.31\NewsEngine\NewsEngine\obj\Debug\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\NewsEngine.dll.config
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\NewsEngine.pdb
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Antlr3.Runtime.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Newtonsoft.Json.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Owin.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\PagedList.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\PagedList.Mvc.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.Helpers.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.Mvc.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.Optimization.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.Razor.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.WebPages.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\WebGrease.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\PagedList.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\PagedList.Mvc.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.Helpers.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.Mvc.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.Optimization.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.Razor.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.WebPages.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Newtonsoft.Json.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Antlr3.Runtime.pdb
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\EntityFramework.SqlServer.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\obj\Debug\NewsEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\obj\Debug\NewsEngine.dll
+C:\Users\Chii\Desktop\ШП\Портфолио C#\NewsEngine\2015.08.02\NewsEngine\NewsEngine\obj\Debug\NewsEngine.pdb
