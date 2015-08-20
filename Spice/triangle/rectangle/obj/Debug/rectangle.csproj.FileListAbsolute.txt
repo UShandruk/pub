@@ -1,0 +1,23 @@
+c:\users\chii\documents\visual studio 2013\Projects\rectangle\rectangle\bin\Debug\rectangle.exe.config
+c:\users\chii\documents\visual studio 2013\Projects\rectangle\rectangle\bin\Debug\rectangle.exe
+c:\users\chii\documents\visual studio 2013\Projects\rectangle\rectangle\bin\Debug\rectangle.pdb
+c:\users\chii\documents\visual studio 2013\Projects\rectangle\rectangle\obj\Debug\rectangle.csprojResolveAssemblyReference.cache
+c:\users\chii\documents\visual studio 2013\Projects\rectangle\rectangle\obj\Debug\rectangle.exe
+c:\users\chii\documents\visual studio 2013\Projects\rectangle\rectangle\obj\Debug\rectangle.pdb
+C:\Users\Chii\Documents\Visual Studio 2013\Projects\rectangle\2\rectangle\bin\Debug\rectangle.exe.config
+C:\Users\Chii\Documents\Visual Studio 2013\Projects\rectangle\2\rectangle\obj\Debug\rectangle.exe
+C:\Users\Chii\Documents\Visual Studio 2013\Projects\rectangle\2\rectangle\obj\Debug\rectangle.pdb
+C:\Users\Chii\Documents\Visual Studio 2013\Projects\rectangle\3\rectangle\bin\Debug\rectangle.exe.config
+C:\Users\Chii\Documents\Visual Studio 2013\Projects\rectangle\3\rectangle\obj\Debug\rectangle.exe
+C:\Users\Chii\Documents\Visual Studio 2013\Projects\rectangle\3\rectangle\obj\Debug\rectangle.pdb
+C:\Users\Chii\Documents\Visual Studio 2013\Projects\rectangle\3\rectangle\obj\Debug\rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Documents\Visual Studio 2013\Projects\rectangle\3\rectangle\bin\Debug\rectangle.exe
+C:\Users\Chii\Documents\Visual Studio 2013\Projects\rectangle\3\rectangle\bin\Debug\rectangle.pdb
+C:\Users\Chii\Desktop\ШП\rectangle\3\rectangle\bin\Debug\rectangle.exe.config
+C:\Users\Chii\Desktop\ШП\rectangle\3\rectangle\obj\Debug\rectangle.exe
+C:\Users\Chii\Desktop\ШП\rectangle\3\rectangle\obj\Debug\rectangle.pdb
+C:\Users\Chii\Desktop\ШП\rectangle\3\rectangle\bin\Debug\rectangle.exe
+C:\Users\Chii\Desktop\ШП\rectangle\3\rectangle\bin\Debug\rectangle.pdb
+C:\Users\Chii\Desktop\ШП\rectangle\3\rectangle\obj\Debug\rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\rectangle\3\rectangle\bin\Debug\Triangle.dll
+C:\Users\Chii\Desktop\ШП\rectangle\3\rectangle\bin\Debug\Triangle.pdb

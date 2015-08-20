@@ -1,0 +1,6 @@
+C:\Users\Chii\Desktop\ШП\rectangle\3\rectangle\bin\Debug\rectangle.exe.config
+C:\Users\Chii\Desktop\ШП\rectangle\3\rectangle\obj\Debug\rectangle.exe
+C:\Users\Chii\Desktop\ШП\rectangle\3\rectangle\obj\Debug\rectangle.pdb
+C:\Users\Chii\Desktop\ШП\rectangle\4\rectangle\bin\Debug\rectangle.exe.config
+C:\Users\Chii\Desktop\ШП\rectangle\4\rectangle\obj\Debug\rectangle.exe
+C:\Users\Chii\Desktop\ШП\rectangle\4\rectangle\obj\Debug\rectangle.pdb
