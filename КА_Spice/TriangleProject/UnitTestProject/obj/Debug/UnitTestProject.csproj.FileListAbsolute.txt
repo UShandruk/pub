@@ -1,0 +1,7 @@
+c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\UnitTestProject\bin\Debug\UnitTestProject.pdb
+c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\UnitTestProject\bin\Debug\ClassLibrary1.dll
+c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\UnitTestProject\bin\Debug\ClassLibrary1.pdb
+c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\UnitTestProject\obj\Debug\UnitTestProject.dll
+c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\UnitTestProject\obj\Debug\UnitTestProject.pdb
