@@ -1,0 +1,7 @@
+C:\Users\Chii\Desktop\ШП\rectangle\4\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Chii\Desktop\ШП\rectangle\4\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Chii\Desktop\ШП\rectangle\4\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Chii\Desktop\ШП\rectangle\4\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Chii\Desktop\ШП\rectangle\4\UnitTestProject\bin\Debug\Triangle.dll
+C:\Users\Chii\Desktop\ШП\rectangle\4\UnitTestProject\bin\Debug\Triangle.pdb
+C:\Users\Chii\Desktop\ШП\rectangle\4\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache

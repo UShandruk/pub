@@ -1,0 +1,5 @@
+C:\Users\Chii\Desktop\ШП\Triangle\Triangle\bin\Debug\Triangle.dll
+C:\Users\Chii\Desktop\ШП\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Chii\Desktop\ШП\Triangle\Triangle\obj\Debug\Triangle.dll
+C:\Users\Chii\Desktop\ШП\Triangle\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Chii\Desktop\ШП\Triangle\Triangle\obj\Debug\TriangleLibrary.csprojResolveAssemblyReference.cache

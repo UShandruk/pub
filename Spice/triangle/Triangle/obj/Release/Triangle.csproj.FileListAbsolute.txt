@@ -1,0 +1,4 @@
+C:\Users\Chii\Desktop\ШП\Triangle\Triangle\bin\Release\Triangle.dll
+C:\Users\Chii\Desktop\ШП\Triangle\Triangle\bin\Release\Triangle.pdb
+C:\Users\Chii\Desktop\ШП\Triangle\Triangle\obj\Release\Triangle.dll
+C:\Users\Chii\Desktop\ШП\Triangle\Triangle\obj\Release\Triangle.pdb
