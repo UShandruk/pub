@@ -6,3 +6,6 @@ c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\TriangleProj
 c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\TriangleProject\bin\Debug\ClassLibrary1.pdb
 c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\TriangleProject\obj\Debug\TriangleProject.exe
 c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\TriangleProject\obj\Debug\TriangleProject.pdb
+C:\Users\Chii\Documents\GitHub\Pub\КА_Spice\TriangleProject\TriangleProject\bin\Debug\TriangleProject.exe.config
+C:\Users\Chii\Documents\GitHub\Pub\КА_Spice\TriangleProject\TriangleProject\obj\Debug\TriangleProject.exe
+C:\Users\Chii\Documents\GitHub\Pub\КА_Spice\TriangleProject\TriangleProject\obj\Debug\TriangleProject.pdb
