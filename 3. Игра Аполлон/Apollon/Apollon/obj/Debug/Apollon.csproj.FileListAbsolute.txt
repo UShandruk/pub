@@ -1,0 +1,15 @@
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\Apollon\Apollon\bin\Debug\Apollon.exe.config
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\Apollon\Apollon\obj\Debug\Apollon.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\Apollon\Apollon\obj\Debug\Apollon.Form1.resources
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\Apollon\Apollon\obj\Debug\Apollon.Properties.Resources.resources
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\Apollon\Apollon\obj\Debug\Apollon.csproj.GenerateResource.Cache
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\Apollon\Apollon\bin\Debug\Apollon.exe
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\Apollon\Apollon\bin\Debug\Apollon.pdb
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\Apollon\Apollon\obj\Debug\Apollon.exe
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\Apollon\Apollon\obj\Debug\Apollon.pdb
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.15_Урок 2_Игра Аполлон\ДЗ_С# Game 2\2.3\Urok 2\Apollon\Apollon\bin\Debug\Apollon.exe.config
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.15_Урок 2_Игра Аполлон\ДЗ_С# Game 2\2.3\Urok 2\Apollon\Apollon\obj\Debug\Apollon.exe
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.15_Урок 2_Игра Аполлон\ДЗ_С# Game 2\2.3\Urok 2\Apollon\Apollon\obj\Debug\Apollon.pdb
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.15_Урок 2_Игра Аполлон\ДЗ_С# Game 2\2.4\Urok 2\Apollon\Apollon\bin\Debug\Apollon.exe.config
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.15_Урок 2_Игра Аполлон\ДЗ_С# Game 2\2.4\Urok 2\Apollon\Apollon\obj\Debug\Apollon.exe
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.15_Урок 2_Игра Аполлон\ДЗ_С# Game 2\2.4\Urok 2\Apollon\Apollon\obj\Debug\Apollon.pdb
