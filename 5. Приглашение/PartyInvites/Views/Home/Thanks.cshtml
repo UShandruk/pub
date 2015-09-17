@@ -1,0 +1,50 @@
+﻿@model PartyInvites.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Thanks</title>
+    <style>
+        body { background-color: #F1F1F1; }
+    </style>
+</head>
+<body>
+    @{
+        try
+        {
+            WebMail.SmtpServer = "smtp.example.com";
+            WebMail.SmtpPort = 587;
+            WebMail.EnableSsl = true;
+            WebMail.UserName = "mySmtpUsername";
+            WebMail.Password = "mySmtpPassword";
+            WebMail.From = "rsvsp@example.com";
+            WebMail.Send("party-host@example.com", "RVSP Notification", Model.Name + "is" + ((Model.WillAttend ?? false) ? "" : "not") + "attending");
+        }
+        catch (Exception)
+        {
+            @:<b>Sorry - we couldn`t send the e-mail to confirm your RVSP</b>
+        }
+    }
+    <div class="text-center">
+        <h1>Спасибо, @Model.Name!</h1>
+        <div class="lead">
+            @if (Model.WillAttend == true)
+            {
+                @:Здорово, что Вы придете. Напитки уже в холодильнике!
+            }
+            else
+            {
+                @: Сожалею, что Вы не придете, но спасибо за ответ.
+            }
+        </div>
+    </div>
+</body>
+</html>

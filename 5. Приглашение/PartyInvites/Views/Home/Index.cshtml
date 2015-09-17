@@ -1,0 +1,31 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <title>Index</title>
+    <style>
+        .btn a { color: white; text-decoration: none; }
+        body { background-color: #F1F1F1; }
+    </style>
+</head>
+<body>
+    <div class="text-center">
+        @*@ViewBag.Greeting Word (from the view)*@
+        <h2>Мы собираемся провести грандиозную вечеринку.</h2>
+        <br>
+        <h3>На которую Вы приглашены!</h3>
+        <br>
+        <div class="btn btn-success"> 
+            @Html.ActionLink("Ответить на приглашение", "RsvpForm")
+        </div>
+    </div>
+</body>
+</html>
