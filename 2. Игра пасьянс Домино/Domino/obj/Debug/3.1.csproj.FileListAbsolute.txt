@@ -1,0 +1,3 @@
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.2\Domino\bin\Debug\Domino.exe.config
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.2\Domino\obj\Debug\Domino.exe
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.2\Domino\obj\Debug\Domino.pdb

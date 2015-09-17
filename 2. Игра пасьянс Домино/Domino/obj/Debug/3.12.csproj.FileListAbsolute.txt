@@ -1,0 +1,12 @@
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.12\Domino\bin\Debug\Domino.exe.config
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.12\Domino\obj\Debug\Domino.exe
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.12\Domino\obj\Debug\Domino.pdb
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.12\Domino\bin\Debug\Domino.exe
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.12\Domino\bin\Debug\Domino.pdb
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.12\Domino\obj\Debug\3.12.csprojResolveAssemblyReference.cache
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.12\Domino\obj\Debug\Domino.FormDomino.resources
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.12\Domino\obj\Debug\Domino.Properties.Resources.resources
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.12\Domino\obj\Debug\3.12.csproj.GenerateResource.Cache
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.13\Domino\bin\Debug\Domino.exe.config
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.13\Domino\obj\Debug\Domino.exe
+C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.19_Урок 3_Игра Домино\ДЗ_С# Game 3\3.13\Domino\obj\Debug\Domino.pdb
