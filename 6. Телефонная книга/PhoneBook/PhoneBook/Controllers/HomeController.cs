@@ -8,24 +8,26 @@ using System.IO;
 using OfficeOpenXml;
 using PhoneBook.DAL;
 using PhoneBook.Models;
+using PhoneBook.Services;
 
 namespace PhoneBook.Controllers
 {
     public class HomeController : Controller
     {
-        PhoneBookDataContext db = new PhoneBookDataContext();
+        DbService dbService = new DbService();//PhoneBookDataContext db = new PhoneBookDataContext();
+        
         public ActionResult Index(string searching = null) //Список телефонов
         {
             List<RecordViewModel> model = null;
 
             if (searching != null)
             {
-                model = db.Records.Where(x => x.Name.Contains(searching) || x.Surname.Contains(searching) || x.Phone.Contains(searching)).Select(x => new RecordViewModel { Id = x.Id, Name = x.Name, Surname = x.Surname, Phone = x.Phone}).ToList();
+                model = dbService.Search(searching); //model = db.Records.Where(x => x.Name.Contains(searching) || x.Surname.Contains(searching) || x.Phone.Contains(searching)).Select(x => new RecordViewModel { Id = x.Id, Name = x.Name, Surname = x.Surname, Phone = x.Phone}).ToList();
                 return View(model);
             }
             else
             {
-                model = db.Records.Select(x => new RecordViewModel { Id = x.Id, Name = x.Name, Surname = x.Surname, Phone = x.Phone }).ToList();
+                model = dbService.ShowRecords(); //model = db.Records.Select(x => new RecordViewModel { Id = x.Id, Name = x.Name, Surname = x.Surname, Phone = x.Phone }).ToList();
                 return View(model);
             }
         }
@@ -38,44 +40,51 @@ namespace PhoneBook.Controllers
         [HttpPost]
         public ActionResult FormAdd(RecordViewModel record)
         {
-            if (record.Id == 0)
-            {
-                db.Records.InsertOnSubmit(new Record { Surname = record.Surname, Name = record.Name, Phone = record.Phone });
-            }
-
-            else
-            {
-                var recordToEdit = db.Records.FirstOrDefault(r => r.Id == record.Id);
-                recordToEdit.Surname = record.Surname;
-                recordToEdit.Name = record.Name;
-                recordToEdit.Phone = record.Phone;
-            }
-            db.SubmitChanges();
-
+            dbService.Add(record);
             return RedirectToAction("Index");
         }
 
         public ActionResult Remove(int? Id)
         {
-            var recordToDelete = db.Records.FirstOrDefault(r => r.Id == Id);
-            if (recordToDelete == null)
-                return View("Index");
-            db.Records.DeleteOnSubmit(recordToDelete);
-            db.SubmitChanges();
+            //var recordToDelete = db.Records.FirstOrDefault(r => r.Id == Id);
+            dbService.Delete(Id);
+
             return RedirectToAction("Index");
+            //if (recordToDelete == null)
+            //    return View("Index");
+            //db.Records.DeleteOnSubmit(recordToDelete);
+            //db.SubmitChanges();
+            //return RedirectToAction("Index");
         }
 
         public ActionResult Edit(int? Id)
         {
-            var recordToEdit = db.Records.FirstOrDefault(r => r.Id == Id);
+            //var recordToEdit = db.Records.FirstOrDefault(r => r.Id == Id);
+            //var result = dbService.Get(Id);
+            //if (result == null)
+            //{
+            //    return RedirectToAction("Index");
+            //}
+            //else   
+            //return View("Add", result);
+
+            var recordToEdit = dbService.Get(Id);
             if (recordToEdit == null)
+            {
                 return RedirectToAction("Index");
-            return View("Add", new RecordViewModel { Id = recordToEdit.Id, Name = recordToEdit.Name, Surname = recordToEdit.Surname, Phone = recordToEdit.Phone });
+            }
+            else
+            {
+                var result = new RecordViewModel { Id = recordToEdit.Id, Name = recordToEdit.Name, Surname = recordToEdit.Surname, Phone = recordToEdit.Phone };
+                return View("Add", result);
+            }
         }
 
         public void ExportToExcel()
         {
-            List<Record> Records = db.Records.ToList();
+            //List<Record> Records = db.Records.ToList();
+
+            List<Record> Records = dbService.GetAll();
 
             using (var stream = new MemoryStream())
             {
@@ -107,7 +116,7 @@ namespace PhoneBook.Controllers
 
                 sheet.View.FreezePanes(2, 1);
 
-                package.Save(); 
+                package.Save();
 
                 stream.WriteTo(Response.OutputStream);
 
