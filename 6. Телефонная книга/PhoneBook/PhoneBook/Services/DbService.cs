@@ -7,7 +7,7 @@ using System.Web;
 
 namespace PhoneBook.Services
 {
-    public class DbService
+    public class DbService : IDbService
     {
         private PhoneBookDataContext db = new PhoneBookDataContext();
 

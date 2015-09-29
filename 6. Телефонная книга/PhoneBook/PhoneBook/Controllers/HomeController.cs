@@ -14,8 +14,8 @@ namespace PhoneBook.Controllers
 {
     public class HomeController : Controller
     {
-        DbService dbService = new DbService();//PhoneBookDataContext db = new PhoneBookDataContext();
-        
+        //DbService dbService = new DbService();//PhoneBookDataContext db = new PhoneBookDataContext();
+        private IDbService dbService;
         public ActionResult Index(string searching = null) //Список телефонов
         {
             List<RecordViewModel> model = null;
