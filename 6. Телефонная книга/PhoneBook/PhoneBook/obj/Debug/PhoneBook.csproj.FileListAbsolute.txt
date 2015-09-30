@@ -52,6 +52,16 @@ C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\
 C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
 C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\obj\Debug\PhoneBook.dll
 C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\Ninject.dll
+C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\Ninject.Web.Common.dll
+C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\Ninject.Web.Mvc.dll
+C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\WebActivator.dll
+C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\Ninject.pdb
+C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\Ninject.xml
+C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\Ninject.Web.Common.pdb
+C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\Ninject.Web.Common.xml
+C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\Ninject.Web.Mvc.pdb
+C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\bin\Ninject.Web.Mvc.xml
+C:\Users\Chii\Documents\GitHub\Pub\6. Телефонная книга\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache

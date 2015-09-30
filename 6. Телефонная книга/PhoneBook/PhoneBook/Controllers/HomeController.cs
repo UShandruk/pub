@@ -14,20 +14,25 @@ namespace PhoneBook.Controllers
 {
     public class HomeController : Controller
     {
-        //DbService dbService = new DbService();//PhoneBookDataContext db = new PhoneBookDataContext();
         private IDbService dbService;
+        
+        public HomeController(IDbService dbServiceParam)
+        {
+            dbService = dbServiceParam;
+        }
+
         public ActionResult Index(string searching = null) //Список телефонов
         {
             List<RecordViewModel> model = null;
 
             if (searching != null)
             {
-                model = dbService.Search(searching); //model = db.Records.Where(x => x.Name.Contains(searching) || x.Surname.Contains(searching) || x.Phone.Contains(searching)).Select(x => new RecordViewModel { Id = x.Id, Name = x.Name, Surname = x.Surname, Phone = x.Phone}).ToList();
+                model = dbService.Search(searching);
                 return View(model);
             }
             else
             {
-                model = dbService.ShowRecords(); //model = db.Records.Select(x => new RecordViewModel { Id = x.Id, Name = x.Name, Surname = x.Surname, Phone = x.Phone }).ToList();
+                model = dbService.ShowRecords();
                 return View(model);
             }
         }
@@ -46,28 +51,12 @@ namespace PhoneBook.Controllers
 
         public ActionResult Remove(int? Id)
         {
-            //var recordToDelete = db.Records.FirstOrDefault(r => r.Id == Id);
             dbService.Delete(Id);
-
             return RedirectToAction("Index");
-            //if (recordToDelete == null)
-            //    return View("Index");
-            //db.Records.DeleteOnSubmit(recordToDelete);
-            //db.SubmitChanges();
-            //return RedirectToAction("Index");
         }
 
         public ActionResult Edit(int? Id)
         {
-            //var recordToEdit = db.Records.FirstOrDefault(r => r.Id == Id);
-            //var result = dbService.Get(Id);
-            //if (result == null)
-            //{
-            //    return RedirectToAction("Index");
-            //}
-            //else   
-            //return View("Add", result);
-
             var recordToEdit = dbService.Get(Id);
             if (recordToEdit == null)
             {
@@ -82,8 +71,6 @@ namespace PhoneBook.Controllers
 
         public void ExportToExcel()
         {
-            //List<Record> Records = db.Records.ToList();
-
             List<Record> Records = dbService.GetAll();
 
             using (var stream = new MemoryStream())

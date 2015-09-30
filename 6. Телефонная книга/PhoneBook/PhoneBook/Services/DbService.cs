@@ -41,24 +41,12 @@ namespace PhoneBook.Services
         public Record Get(int? Id)
         {
             var result = db.Records.FirstOrDefault(r => r.Id == Id);
-            return result;
-            //if (result == null)
-            //    return null;
-            //else {
-            //    return new RecordViewModel { Id = recordToEdit.Id, Name = recordToEdit.Name, Surname = recordToEdit.Surname, Phone = recordToEdit.Phone } 
-                //new RecordViewModel { Id = recordToEdit.Id, Name = recordToEdit.Name, Surname = recordToEdit.Surname, Phone = recordToEdit.Phone }
-            //}
-                
+            return result;                
         }
         public List<Record> GetAll()
         {
             return db.Records.ToList();
         }
-
-        //public void Submit()
-        //{
-        //    db.SubmitChanges();
-        //}
 
         public void Delete(int? Id)
         {
