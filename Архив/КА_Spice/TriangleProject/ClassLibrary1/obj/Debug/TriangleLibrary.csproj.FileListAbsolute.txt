@@ -1,4 +1,0 @@
-c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-c:\users\chii\documents\visual studio 2013\Projects\TriangleProject\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
