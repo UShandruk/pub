@@ -1,0 +1,10 @@
+﻿@using Blog.Models;
+@helper Spisok(List<Person> Persons, string SelectedPersonName)
+{
+    foreach (Person person in Persons.Where(p => p.name == SelectedPersonName))
+    {
+        <text>
+        Пользователь @(person.name), которому @(person.age) лет, родился в городе @(person.place).
+        </text> 
+    }
+}
