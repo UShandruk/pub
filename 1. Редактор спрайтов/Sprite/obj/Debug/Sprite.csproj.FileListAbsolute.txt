@@ -1,9 +1,0 @@
-C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.12_Урок 1_Игра Спрайт\ДЗ_С# Game 1\Urok 1\1.1\bin\Debug\1.1.exe.config
-C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.12_Урок 1_Игра Спрайт\ДЗ_С# Game 1\Urok 1\1.1\bin\Debug\1.1.exe
-C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.12_Урок 1_Игра Спрайт\ДЗ_С# Game 1\Urok 1\1.1\bin\Debug\1.1.pdb
-C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.12_Урок 1_Игра Спрайт\ДЗ_С# Game 1\Urok 1\1.1\obj\Debug\Sprite.csprojResolveAssemblyReference.cache
-C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.12_Урок 1_Игра Спрайт\ДЗ_С# Game 1\Urok 1\1.1\obj\Debug\_1._1.Properties.Resources.resources
-C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.12_Урок 1_Игра Спрайт\ДЗ_С# Game 1\Urok 1\1.1\obj\Debug\Sprite.csproj.GenerateResource.Cache
-C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.12_Урок 1_Игра Спрайт\ДЗ_С# Game 1\Urok 1\1.1\obj\Debug\1.1.exe
-C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.12_Урок 1_Игра Спрайт\ДЗ_С# Game 1\Urok 1\1.1\obj\Debug\1.1.pdb
-C:\Users\Chii\Desktop\ШП\2015.05-06_C# Game\2015.05.12_Урок 1_Игра Спрайт\ДЗ_С# Game 1\Urok 1\1.1\obj\Debug\_1._1.FormSprite.resources
