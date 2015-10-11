@@ -83,7 +83,7 @@ namespace Blog.Controllers
                 if (result.Succeeded)
                 {
                     await SignInAsync(user, isPersistent: false);
-                    return RedirectToAction("Index", "Home");
+                    return RedirectToAction("Index", "Messages");
                 }
                 else
                 {
@@ -290,7 +290,7 @@ namespace Blog.Controllers
         public ActionResult LogOff()
         {
             AuthenticationManager.SignOut();
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Index", "Messages");
         }
 
         //
@@ -372,7 +372,7 @@ namespace Blog.Controllers
             }
             else
             {
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Index", "Messages");
             }
         }
 

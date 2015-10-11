@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Blog.Models
 {
-    interface IRepliesDbService
+    public interface IRepliesDbService
     {
         IQueryable<Reply> ExtractReplies();
 

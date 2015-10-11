@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Blog.Models
 {
-    interface IMessagesDbService
+    public interface IMessagesDbService
     {
         IOrderedQueryable<Message> ExtractMessages();
       

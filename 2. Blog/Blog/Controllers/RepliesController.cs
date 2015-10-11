@@ -13,13 +13,18 @@ namespace Blog.Controllers
 {
     public class RepliesController : Controller
     {
-        RepliesDbService repliesDbService = new RepliesDbService();
+        private IRepliesDbService repliesDbService;
 
         // GET: /Replies/
         public ActionResult Index()
         {
             var replies = repliesDbService.ExtractReplies();
             return View(replies.ToList());
+        }
+
+        public RepliesController(IRepliesDbService repliesDbServiceParam)
+        {
+            repliesDbService = repliesDbServiceParam;
         }
 
         // GET: /Replies/Details/5

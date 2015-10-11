@@ -20,11 +20,12 @@ namespace Blog.Controllers
       
         UserManager<ApplicationUser> userManager;
 
-        IMessagesDbService messagesDbService = new MessagesDbService();
+        private IMessagesDbService messagesDbService;
 
-        public MessagesController()
+        public MessagesController(IMessagesDbService messagesDbServiceParam)
         {
             userManager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>());
+            messagesDbService = messagesDbServiceParam;
         }
 
         // GET: /Messages/
