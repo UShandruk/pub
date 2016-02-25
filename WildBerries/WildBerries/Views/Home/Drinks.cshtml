@@ -1,0 +1,11 @@
+﻿@using WildBerries.Models
+@model IEnumerable<Drink>
+@{
+    ViewBag.Title = "DrinkDb";
+    Layout = null;
+}
+
+@foreach (var d in Model)
+{    
+        <div class="btn btn-lg btn-danger drink child" data-id=@d.Id data-enough-money=0 data-price=@d.Price onclick="selectDrink(this)">@d.Name <br/> @d.Price.ToString("c")</div>
+}
