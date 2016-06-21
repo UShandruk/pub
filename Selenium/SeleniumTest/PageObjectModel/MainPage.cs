@@ -32,8 +32,8 @@ namespace SeleniumTest.PageObjectModel
 		{
 			// Найти элемент меню и кликнуть на него -> Найти изображение -> Убедиться, что оно правильное
 			webdriver.FindElement(By.CssSelector(element.Key)).Click();
-			Thread.Sleep(1000);
-			var pictureBlock = webdriver.FindElement(By.CssSelector(element.Value));
+			WaitForElement(element.Value);
+			IWebElement pictureBlock = webdriver.FindElement(By.CssSelector(element.Value));
 			return pictureBlock;
 		}
 
@@ -47,16 +47,16 @@ namespace SeleniumTest.PageObjectModel
 				"http://abbyy-ls.com.ua/interpreting_offer"
 			};
 
-			var languageSelectBox = webdriver.FindElement(By.ClassName("lang-switcher"));
+			IWebElement languageSelectBox = webdriver.FindElement(By.ClassName("lang-switcher"));
 			var languageVariants = languageSelectBox.FindElements(By.ClassName("lang-switcher__item"));
-			var languageVariantsHrefs = languageVariants.Select(v => v.GetAttribute("href")).ToArray();
+			string[] languageVariantsHrefs = languageVariants.Select(v => v.GetAttribute("href")).ToArray();
 
 			return languageVariants.Count();
 		}
 
 		public override IWebElement GetPhone()
 		{
-			var currentElement = webdriver.FindElement(By.ClassName("call_phone_1"));
+			IWebElement currentElement = webdriver.FindElement(By.ClassName("call_phone_1"));
 			return currentElement;
 		}
 	}

@@ -34,16 +34,16 @@ namespace SeleniumTest.PageObjectModel
 				"http://abbyy-ls.com.ua/interpreting_offer"
 			};
 
-			var languageSelectBox = webdriver.FindElement(By.ClassName("lang-switcher"));
+			IWebElement languageSelectBox = webdriver.FindElement(By.ClassName("lang-switcher"));
 			var languageVariants = languageSelectBox.FindElements(By.ClassName("lang-switcher__item"));
-			var languageVariantsHrefs = languageVariants.Select(v => v.GetAttribute("href")).ToArray();
+			string[] languageVariantsHrefs = languageVariants.Select(v => v.GetAttribute("href")).ToArray();
 
 			return languageVariants.Count();
 		}
 
 		public override IWebElement GetPhone()
 		{
-			var currentElement = webdriver.FindElement(By.ClassName("call_phone_1"));
+			IWebElement currentElement = webdriver.FindElement(By.ClassName("call_phone_1"));
 			return currentElement;
 		}
 	}

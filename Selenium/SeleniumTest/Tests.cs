@@ -12,151 +12,144 @@ using NUnit.Framework;
 using SeleniumTest.PageObjectModel;
 using OpenQA.Selenium.Support.UI;
 using System.Threading;
+using OpenQA.Selenium.Remote;
 
 namespace SeleniumTest
 {
+	[TestFixture]   
 	public class Tests
 	{
+		private IWebDriver driver;
+		private BasePage page;
+		
+		[SetUp]
+		public void InitTests()
+		{
+			driver = GetWebDriver();
+		}
+		
 		private IWebDriver GetWebDriver()
 		{
 			switch (ConfigurationManager.AppSettings["browser"].ToUpper())
 			{
 				case "FIREFOX":
+					//только для версий 46 и ниже
 					return new FirefoxDriver();
+				
 				case "CHROME":
 					return new ChromeDriver();
+				
 				case "IE":
+					//требует донастройки браузера, см. https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver, раздел RequiredConfiguration
 					return new InternetExplorerDriver();
+				
 				default:
 					return new ChromeDriver();
 			};
-
 		}
-
+		
 		[Test]
 		public void TestMainPage()
 		{
-			using (var driver = GetWebDriver())
+			MainPage mainPage = new MainPage(driver);
+			
+			mainPage.OpenPage();
+			foreach (KeyValuePair<string, string> element in mainPage.leftMenuElemens)
 			{
-				MainPage mainPage = new MainPage(driver);
-
-				try
-				{
-					mainPage.OpenPage();
-					foreach (var element in mainPage.leftMenuElemens)
-					{
-						var pictureBlock = mainPage.CheckLeftMenuElementAndPictureAccordance(element);
-						Assert.IsTrue(pictureBlock.Displayed);
-					}
-
-				}
-
-				catch
-				{
-					mainPage.MakeScreenshot("TestMainPage");
-					throw;
-				}
+				IWebElement pictureBlock = mainPage.CheckLeftMenuElementAndPictureAccordance(element);
+				Assert.IsTrue(pictureBlock.Displayed);
 			}
 		}
-
-
+		
 		// Проверка страницы рассчета письменного перевода
-
+		
 		[Test]
 		public void TestWrittenTranslatePage()
 		{
-			using (var driver = new ChromeDriver())
-			{
-				WrittenTranslatePage writtenTranslatePage = new WrittenTranslatePage(driver);
-
-				try
-				{
-					writtenTranslatePage.OpenPage();
-
-					// Найти и кликнуть на выбор языка оригинала "русский"
-
-					SelectElement select = writtenTranslatePage.SelectOriginalLanguage();
-					Assert.IsNotNull(select);
-					select.SelectByText("Русский");
-
-					Thread.Sleep(1000);
-
-					// Найти и кликнуть на выбор языка перевода "английский"
-
-					select = writtenTranslatePage.SelectTargetLanguage();
-					Assert.IsNotNull(select);
-					select.SelectByText("Английский");
-				}
-
-				catch
-				{
-					writtenTranslatePage.MakeScreenshot("TestWrittenTranslatePage");
-					throw;
-				}
-			}
+			WrittenTranslatePage writtenTranslatePage = new WrittenTranslatePage(driver);
+			
+			writtenTranslatePage.OpenPage();
+			
+			// Найти и кликнуть на выбор языка оригинала "русский"
+			
+			SelectElement select = writtenTranslatePage.SelectOriginalLanguage();
+			Assert.IsNotNull(select);
+			select.SelectByText("Русский");
+			
+			Thread.Sleep(1000);
+			
+			// Найти и кликнуть на выбор языка перевода "английский"
+			
+			select = writtenTranslatePage.SelectTargetLanguage();
+			Assert.IsNotNull(select);
+			select.SelectByText("Английский");
 		}
-
-
+		
+		
 		// Проверка страницы рассчета устного перевода
-
+		
 		[Test]
 		public void TestVerbalTranslatePage()
 		{
-			using (var driver = new ChromeDriver())
-			{
-				VerbalTranslatePage verbalTranslatePage = new VerbalTranslatePage(driver);
-				try
-				{
-					verbalTranslatePage.OpenPage();
-
-					SelectElement select = verbalTranslatePage.SelectEventType();
-					Assert.IsNotNull(select);
-					select.SelectByText("деловые переговоры");
-				}
-
-				catch
-				{
-					verbalTranslatePage.MakeScreenshot("TestVerbalTranslatePage");
-					throw;
-				}
-			}
+			VerbalTranslatePage verbalTranslatePage = new VerbalTranslatePage(driver);
+			
+			verbalTranslatePage.OpenPage();
+			
+			SelectElement select = verbalTranslatePage.SelectEventType();
+			Assert.IsNotNull(select);
+			select.SelectByText("деловые переговоры");
 		}
-
-
+		
+		
 		// Проверка контактной информации
-
+		
 		[Test]
 		public void TestContactInformation()
 		{
-			using (var driver = new ChromeDriver())
+			MainPage mainPage = new MainPage(driver);
+			WrittenTranslatePage writtenTranslatePage = new WrittenTranslatePage(driver);
+			VerbalTranslatePage verbalTranslatePage = new VerbalTranslatePage(driver);
+			
+			List<BasePage> pages = new List<BasePage>
 			{
-				MainPage mainPage = new MainPage(driver);
-				WrittenTranslatePage writtenTranslatePage = new WrittenTranslatePage(driver);
-				VerbalTranslatePage verbalTranslatePage = new VerbalTranslatePage(driver);
-
-				List<BasePage> pages = new List<BasePage>
-				{
-					mainPage,
-					writtenTranslatePage,
-					verbalTranslatePage
-				};
-
-				foreach (BasePage page in pages)
-				{
-					try
-					{
-						page.OpenPage();
-						Assert.AreEqual(4, page.GetNumberOfLanguages());
-						Thread.Sleep(1000);
-						var currentElement = page.GetPhone();
-						Assert.IsTrue(currentElement.Displayed);
-					}
-					catch
-					{
-						page.MakeScreenshot("TestContactInformation");
-						throw;
-					}
-				}
+				mainPage,
+				writtenTranslatePage,
+				verbalTranslatePage
+			};
+			
+			foreach (BasePage page in pages)
+			{
+				page.OpenPage();
+				Assert.AreEqual(4, page.GetNumberOfLanguages());
+				Thread.Sleep(1000);
+				IWebElement currentElement = page.GetPhone();
+				Assert.IsTrue(currentElement.Displayed);
+			}
+		}
+		
+		[TearDown]
+		public void FinalizeTest()
+		{
+			if (TestContext.CurrentContext.Result.Status == TestStatus.Failed)
+			{
+				MakeScreenshot(TestContext.CurrentContext.Test.Name);
+			}
+			
+			driver.Quit();
+		}
+		
+		public void MakeScreenshot(string testName)
+		{
+			string fileName = String.Format("../../{0}_{1}.png", DateTime.Now.ToString("yyyy-MM-dd-HH-mm"), testName);
+			
+			try
+			{
+				Screenshot ss = ((ITakesScreenshot)driver).GetScreenshot();
+				ss.SaveAsFile(fileName, System.Drawing.Imaging.ImageFormat.Png);
+			}
+			catch (Exception e)
+			{
+				Console.WriteLine(e.Message);
 			}
 		}
 	}
