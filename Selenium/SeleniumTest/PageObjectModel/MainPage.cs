@@ -37,21 +37,6 @@ namespace SeleniumTest.PageObjectModel
 			return pictureBlock;
 		}
 
-
-		public override void MakeScreenshot()
-		{
-			try
-			{
-				Screenshot ss = ((ITakesScreenshot)webdriver).GetScreenshot();
-				ss.SaveAsFile(@"TestMainPageError.png", System.Drawing.Imaging.ImageFormat.Png);
-			}
-			catch (Exception e)
-			{
-				Console.WriteLine(e.Message);
-				throw;
-			}
-		}
-
 		public override int GetNumberOfLanguages()
 		{
 			string[] languageUrlAddresses = new string[]

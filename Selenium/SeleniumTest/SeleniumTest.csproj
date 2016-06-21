@@ -71,6 +71,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
@@ -93,16 +94,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ChromeTests.cs" />
-    <Compile Include="FireFoxTests.cs" />
-    <Compile Include="InternetExplorerTests.cs" />
     <Compile Include="PageObjectModel\BasePage.cs" />
     <Compile Include="PageObjectModel\MainPage.cs" />
     <Compile Include="PageObjectModel\VerbalTranslatePage.cs" />
     <Compile Include="PageObjectModel\WrittenTranslatePage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tests.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

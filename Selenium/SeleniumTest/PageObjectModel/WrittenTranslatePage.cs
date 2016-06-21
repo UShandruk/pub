@@ -30,19 +30,6 @@ namespace SeleniumTest.PageObjectModel
 			webdriver.Navigate().GoToUrl("http://abbyy-ls.ru/doc-calculator");
 		}
 
-		public override void MakeScreenshot()
-		{
-			try
-			{
-				Screenshot ss = ((ITakesScreenshot)webdriver).GetScreenshot();
-				ss.SaveAsFile(@"TestWrittenTranslatePageError.png", System.Drawing.Imaging.ImageFormat.Png);
-			}
-			catch (Exception e)
-			{
-				Console.WriteLine(e.Message);
-				throw;
-			}
-		}
 
 		public override int GetNumberOfLanguages()
 		{

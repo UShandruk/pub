@@ -24,20 +24,6 @@ namespace SeleniumTest.PageObjectModel
 			webdriver.Navigate().GoToUrl("http://abbyy-ls.ru/interpreting_offer");
 		}
 
-		public override void MakeScreenshot()
-		{
-			try
-			{
-				Screenshot ss = ((ITakesScreenshot)webdriver).GetScreenshot();
-				ss.SaveAsFile(@"TestVerbalTranslatePageError.png", System.Drawing.Imaging.ImageFormat.Png);
-			}
-			catch (Exception e)
-			{
-				Console.WriteLine(e.Message);
-				throw;
-			}
-		}
-
 		public override int GetNumberOfLanguages()
 		{
 		string[] languageUrlAddresses = new string[]
