@@ -1,0 +1,39 @@
+﻿@using PhoneBook.Models
+@model RecordViewModel
+
+@{
+    ViewBag.Title = "Добавление или редактирование телефонной записи";
+}
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3>Добавление или редактирование телефонной записи</h3>
+    </div>
+    @using (Html.BeginForm("FormAdd", "Home", FormMethod.Post)) //экшн, контроллер, метод передачи данных
+    {
+        <div class="panel-body">
+            @Html.Hidden("Id", @Model.Id)
+            <div class="form-group">
+                <label>Фамилия:</label>
+                @Html.TextBoxFor(x => x.Surname, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.Surname)
+            </div>
+            <div class="form-group">
+                <label>Имя:</label>
+                @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.Name)
+            </div>
+            <div class="form-group">
+                <label>Телефон:</label>
+                @Html.TextBoxFor(x => x.Phone, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.Phone)
+            </div>
+        </div>
+        <div class="panel-footer">
+            <input class="btn btn-primary" type="submit" value="Добавить">
+            @Html.ActionLink("Отмена", "Index", "Home", new { @class = "btn btn-default" })
+        </div>
+    }
+</div>
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/jqueryval")

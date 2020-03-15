@@ -1,8 +1,0 @@
-﻿@using (Html.BeginForm("Index", "Home", FormMethod.Post)) //экшн, контроллер, метод передачи данных
-{
-    <div class="form-inline">
-            @Html.TextBox("searching", "", new { @class = "form-control", placeholder = "Введите запрос..." })
-            <input class="btn btn-default" type="submit" value="Найти">
-            @Html.ActionLink("Сброс фильтра", "Index", "Home", new { @class = "btn btn-default" })
-    </div>
-}
