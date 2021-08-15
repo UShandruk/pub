@@ -1,0 +1,20 @@
+Задание
+Описать интерфейс ILogWriter с методами
+● void LogInfo(string message)
+● void LogWarning(string message)
+● void LogError(string message)
+Написать два класса, реализующих этот интерфейс и имеющие необходимые конструкторы:
+● FileLogWriter - для записи логов в файл
+● ConsoleLogWriter - для вывода логов в консоль
+Формат одной записи лога - в одной строке:
+● YYYY-MM-DDTHH:MM:SS+0000 <tab> MessageType <tab> Message
+, где MessageType может быть “Info”, “Warning” или “Error”.
+Написать класс третий класс: MultipleLogWriter, также унаследованный от ILogWriter, который бы
+принимал в конструкторе коллекцию классов, реализующих интерфейс ILogWriter, и мог бы писать
+логи сразу всеми переданными в конструктор log-writer-ами одновременно.
+В основном потоке программы:
+● Создать по одному экземпляру класса FileLogWriter и ConsoleLogWriter.
+● Затем создать экземпляр класса MultipleLogWriter, который бы принял в конструктор
+созданные выше экземпляры FileLogWriter и ConsoleLogWriter.
+● Сделать по одной записи логов каждого типа, чтобы убедиться, что они одновременно
+пишутся и в консоль и в файл.
